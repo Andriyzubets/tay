@@ -1818,6 +1818,7 @@ body {
 		width: 80%;
 		flex: .6;
 		padding-top: 0;
+		max-height: 50px;
 	}
 }
 @media screen and (max-width: 350px) {
