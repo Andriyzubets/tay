@@ -1708,7 +1708,7 @@ body {
 		justify-content: flex-start;
 	}
 	.header .cart {
-		padding-left: 15px;
+		/*padding-left: 15px;*/
 	}
 	.main-sidebar {
 		width: 118px;
