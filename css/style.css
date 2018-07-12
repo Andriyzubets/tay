@@ -1715,17 +1715,26 @@ body {
 	}
 	.main-sidebar .tel {
 		font-size: 14px;
+		display: none;
 	}
 	.main-sidebar .callme {
-		font-size: 10px;
-		padding: 10px 10px;
+		border: none;
+		background: url(../img/tel-icon.png) 50% no-repeat;
+		-webkit-background-size: contain;
+		background-size: contain;
+		margin-top: 20px;
+		width: 30%;
+		padding-top: 30%;
+	}
+	.main-sidebar .callme span {
+		display: none;
 	}
 	.main-sidebar .menu a {
 		font-size: 10px;
 	}
 	.main-sidebar .menu a .img {
 		padding-top: 33px;
-		display: none;
+		/*display: none;*/
 	}
 	.main-page .slider-top .slide {
 		width: calc(100% - 150px);
