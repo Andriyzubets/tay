@@ -1816,6 +1816,7 @@ body {
 		-webkit-background-size: contain;
 		background-size: contain;
 		width: 80%;
+		flex: .6;
 	}
 }
 @media screen and (max-width: 350px) {
