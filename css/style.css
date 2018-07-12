@@ -1742,6 +1742,9 @@ body {
 		/*padding-top: 33px;*/
 		/*display: none;*/
 	}
+	.main-sidebar .menu a:before {
+		display: none;
+	}
 	.main-page .slider-top .slide {
 		width: calc(100% - 150px);
 		padding-left: 150px;
