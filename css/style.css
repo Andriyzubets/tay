@@ -1735,6 +1735,11 @@ body {
 	.main-sidebar .menu a .img {
 		padding-top: 33px;
 		/*display: none;*/
+		margin-bottom: 0;
+	}
+	.main-sidebar .menu a .name {
+		/*padding-top: 33px;*/
+		/*display: none;*/
 	}
 	.main-page .slider-top .slide {
 		width: calc(100% - 150px);
