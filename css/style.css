@@ -1749,21 +1749,21 @@ body {
 		width: 100%;
 	}
 	.main-page .slider-top .slide {
-		width: calc(100% - 150px);
-		padding-left: 150px;
+		width: calc(100% - 80px);
+		padding-left: 80px;
 	}
 	.main-page .slider-top .controls {
-		padding: 0 3% 0 150px;
-		width: calc(95% - 150px);
+		padding: 0 3% 0 80px;
+		width: calc(95% - 80px);
 	}
 	.header {
-		padding-left: 150px;
+		padding-left: 80px;
 	}
 	.sandwich-right-bar .nav-toggle {
 		top: 25px;
 	}
 	.advantages {
-		padding-left: 150px;
+		padding-left: 80px;
 		padding-top: 15px;
 		padding-bottom: 5px;
 		-webkit-flex-wrap: wrap;
@@ -1785,20 +1785,20 @@ body {
 		display: none;
 	}
 	.filter-menu {
-		padding: 20px 3% 20px 150px;
+		padding: 20px 3% 20px 80px;
 	}
 	.shop-items {
-		padding: 0 3% 0 150px;
+		padding: 0 3% 0 80px;
 	}
 	.shop-items a {
 		width: 95%;
 		margin-bottom: 30px;
 	}
 	.delivery, .self-delivery {
-		padding: 0 3% 20px 150px;
+		padding: 0 3% 20px 80px;
 	}
 	.booking {
-		padding: 20px 3% 50px 150px;
+		padding: 20px 3% 50px 80px;
 	}
 	.booking .left {
 		-webkit-box-orient: vertical;
@@ -1819,7 +1819,7 @@ body {
 		margin-top: 10px;
 	}
 	.footer-main {
-		padding: 0 3% 0 150px;
+		padding: 0 3% 0 80px;
 		-webkit-box-pack: center;
 		-webkit-justify-content: center;
 		-ms-flex-pack: center;
