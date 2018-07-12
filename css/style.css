@@ -1817,6 +1817,7 @@ body {
 		background-size: contain;
 		width: 80%;
 		flex: .6;
+		padding-top: 0;
 	}
 }
 @media screen and (max-width: 350px) {
