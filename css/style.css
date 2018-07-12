@@ -1811,6 +1811,12 @@ body {
 		-moz-column-count: 1;
 		column-count: 1;
 	}
+	.main-sidebar .logo {
+		background: url(../img/logo-fixed.png) 50% no-repeat;
+		-webkit-background-size: contain;
+		background-size: contain;
+		width: 80%;
+	}
 }
 @media screen and (max-width: 350px) {
 	.header .cart .price {
@@ -1828,12 +1834,7 @@ body {
 		font-size: 14px;
 		text-align: center;
 	}
-	.main-sidebar .logo {
-		background: url(../img/logo-fixed.png) 50% no-repeat;
-		-webkit-background-size: contain;
-		background-size: contain;
-		width: 80%;
-	}
+	
 	.header, .advantages, .filter-menu, .shop-items, .delivery, .self-delivery, .booking, .footer-main {
 		padding-left: 85px;
 	}
