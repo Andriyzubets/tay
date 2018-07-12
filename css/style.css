@@ -1745,6 +1745,9 @@ body {
 	.main-sidebar .menu a:before {
 		display: none;
 	}
+	.footer-main .fifth {
+		width: 100%;
+	}
 	.main-page .slider-top .slide {
 		width: calc(100% - 150px);
 		padding-left: 150px;
@@ -1839,11 +1842,6 @@ body {
 		padding-top: 0;
 		max-height: 40px;
 	}
-}
-@media screen and (max-width: 350px) {
-	.header .cart .price {
-		display: none;
-	}
 	.main-sidebar {
 		width: 65px;
 	}
@@ -1856,6 +1854,12 @@ body {
 		font-size: 14px;
 		text-align: center;
 	}
+}
+@media screen and (max-width: 350px) {
+	.header .cart .price {
+		display: none;
+	}
+	
 	
 	.header, .advantages, .filter-menu, .shop-items, .delivery, .self-delivery, .booking, .footer-main {
 		padding-left: 85px;
