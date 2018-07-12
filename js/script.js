@@ -21,12 +21,12 @@ if(document.querySelector('.main-page')) {
 		slider.style.paddingTop=height + 'px';
 		slider.style.marginBottom='45px';
 	}
-	if(document.body.clientWidth<=1440 && document.body.clientWidth>381) {
+	if(document.body.clientWidth<=1440 && document.body.clientWidth>481) {
 		height = parseInt(clientHeight - header - adv - '15');
 		slider.style.paddingTop=height + 'px';
 		slider.style.marginBottom='15px';
 	}
-	if(document.body.clientWidth<=380) {
+	if(document.body.clientWidth<=480) {
 		height = parseInt(clientHeight - header);
 		slider.style.paddingTop=height + 'px';
 		slider.style.marginBottom='15px';
